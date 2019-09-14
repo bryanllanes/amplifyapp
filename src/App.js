@@ -10,6 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. THIS IS A TEST
         </p>
+        <p>
+          This is a test for CI / CD 
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
